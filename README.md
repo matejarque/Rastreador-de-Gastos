@@ -19,22 +19,7 @@ Una aplicación sencilla de seguimiento de gastos para gestionar tus finanzas. �
 
 ---
 
-## 🛠️ Instalación
-1. 🖥️ Clona este repositorio:
-   ```sh
-   git clone https://github.com/tu_usuario/Rastreador-de-Gastos.git
-   ```
-2. 📁 Accede al directorio del proyecto:
-   ```sh
-   cd Rastreador-de-Gastos
-   ```
-3. ⚙️ Asegúrate de tener Node.js instalado.
-4. 📦 Instala las dependencias necesarias:
-   ```sh
-   npm install
-   ```
 
----
 
 ## ▶️ Uso
 Ejecuta la aplicación desde la línea de comandos:
