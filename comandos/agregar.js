@@ -15,11 +15,12 @@ function agregarGasto(descripcion, gasto, categoria, fecha) {
         "Fecha": fecha
     };
     i++;
-
+    
     const format = JSON.stringify(newGasto);
     fileSystem.writeFile("./datos/gastos.json", format, (error) => {
         if (error) throw error;
         console.log("Información recibida");
     });
 }
+
 
