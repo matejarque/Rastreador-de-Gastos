@@ -12,7 +12,8 @@ function agregarGasto(descripcion, gasto, categoria, fecha) {
         "Descripcion": descripcion,
         "Categoria": categoria,
         "Gasto": gasto,
-        "Fecha": fecha
+        "Fecha": fecha,
+        "Estado": true
     };
     i++;
     
