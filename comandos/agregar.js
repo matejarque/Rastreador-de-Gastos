@@ -6,7 +6,7 @@ function agregarGasto(descripcion, gasto, categoria, fecha) {
         console.log("Error en el tipo de dato");
         return;
     }
-
+    
     const newGasto = {
         "ID": i,
         "Descripcion": descripcion,
